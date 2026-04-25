@@ -1,0 +1,1 @@
+Latest release: V1.2.0.
