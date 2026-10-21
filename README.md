@@ -1,1 +1,1 @@
-Latest release: V1.2.0.
+Repo for XYLink distribution.
